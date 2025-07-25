@@ -174,3 +174,16 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost
 
 # Powerbi Dashboard Download link : https://drive.google.com/file/d/1U1XrR-Z3VXRT6FDLu0KzJWq7_dsEwBdF/view?usp=sharing
 
+<img width="1134" height="620" alt="image" src="https://github.com/user-attachments/assets/b6ee020f-45e1-481f-b88d-d3747f8bf69b" />
+<img width="1142" height="637" alt="image" src="https://github.com/user-attachments/assets/48a503f4-46d9-40f7-9cc6-d91329d3c6d7" />
+<img width="1129" height="639" alt="image" src="https://github.com/user-attachments/assets/580d16cb-da15-4963-8116-f8de0c154164" />
+<img width="1117" height="634" alt="image" src="https://github.com/user-attachments/assets/1b6d6b1e-afa1-47cb-9d5d-c83e7c7e98f5" />
+
+
+please click on the download button to download the total file donot download it part wise.
+<img width="1647" height="1026" alt="image" src="https://github.com/user-attachments/assets/2e050ea2-6fc6-4071-a97f-e7d518befd44" />
+
+
+
+
+
