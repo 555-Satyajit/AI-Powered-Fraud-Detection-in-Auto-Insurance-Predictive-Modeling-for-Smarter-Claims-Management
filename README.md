@@ -1,4 +1,4 @@
-<img width="1879" height="1031" alt="image" src="https://github.com/user-attachments/assets/a35b0ca4-fb5c-4b05-8c15-eb13c9d2663e" /># AI-Powered Fraud Detection in Auto Insurance: Predictive Modeling for Smarter Claims Management
+# AI-Powered Fraud Detection in Auto Insurance: Predictive Modeling for Smarter Claims Management
 
 ## Project Overview
 
