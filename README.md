@@ -1,4 +1,4 @@
-# AI-Powered Fraud Detection in Auto Insurance: Predictive Modeling for Smarter Claims Management
+<img width="1879" height="1031" alt="image" src="https://github.com/user-attachments/assets/a35b0ca4-fb5c-4b05-8c15-eb13c9d2663e" /># AI-Powered Fraud Detection in Auto Insurance: Predictive Modeling for Smarter Claims Management
 
 ## Project Overview
 
@@ -183,6 +183,10 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost
 # please click on the download button to download the total file donot download it part wise.
 <img width="1647" height="1026" alt="image" src="https://github.com/user-attachments/assets/2e050ea2-6fc6-4071-a97f-e7d518befd44" />
 
+
+# Our video link : https://drive.google.com/file/d/15PTMHILuw0dYzKGzifQ6JmmdEBfNPNwi/view?usp=sharing
+
+<img width="1879" height="1031" alt="image" src="https://github.com/user-attachments/assets/18f173b4-cdd1-4830-9ce5-5f2967d14bb8" />
 
 
 
